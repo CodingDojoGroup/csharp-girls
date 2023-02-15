@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/markebtaligon/.nuget/packages/": {}
+    "/Users/Adriana.Pena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/CsharpGirls.csproj",
+      "projectUniqueName": "/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/CsharpGirls.csproj",
       "projectName": "CsharpGirls",
-      "projectPath": "/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/CsharpGirls.csproj",
-      "packagesPath": "/Users/markebtaligon/.nuget/packages/",
-      "outputPath": "/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/",
+      "projectPath": "/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/CsharpGirls.csproj",
+      "packagesPath": "/Users/Adriana.Pena/.nuget/packages/",
+      "outputPath": "/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/markebtaligon/.nuget/NuGet/NuGet.Config"
+        "/Users/Adriana.Pena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

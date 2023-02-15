@@ -1,0 +1,15 @@
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.csproj.AssemblyReference.cache
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.AssemblyInfoInputs.cache
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.AssemblyInfo.cs
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.csproj.CoreCompileInputs.cache
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.deps.json
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.runtimeconfig.json
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.dll
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.pdb
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.dll
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/refint/CsharpGirls.dll
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.pdb
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.genruntimeconfig.cache
+/Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/ref/CsharpGirls.dll
