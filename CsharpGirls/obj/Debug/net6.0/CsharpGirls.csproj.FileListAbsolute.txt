@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.csproj.AssemblyReference.cache
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.GeneratedMSBuildEditorConfig.editorconfig
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.AssemblyInfoInputs.cache
@@ -13,3 +14,20 @@
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.pdb
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.genruntimeconfig.cache
 /Users/Adriana.Pena/codingDojo/csharp-girls/CsharpGirls/obj/Debug/net6.0/ref/CsharpGirls.dll
+=======
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.deps.json
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.runtimeconfig.json
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.dll
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/bin/Debug/net6.0/CsharpGirls.pdb
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.csproj.AssemblyReference.cache
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.AssemblyInfoInputs.cache
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.AssemblyInfo.cs
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.csproj.CoreCompileInputs.cache
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.dll
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/refint/CsharpGirls.dll
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.pdb
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/CsharpGirls.genruntimeconfig.cache
+/Users/markebtaligon/Desktop/CodingDojo/cSharp_girls/csharp-girls/CsharpGirls/obj/Debug/net6.0/ref/CsharpGirls.dll
+>>>>>>> array
